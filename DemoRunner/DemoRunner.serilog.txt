@@ -1,0 +1,43 @@
+2022-11-15 20:54:28.241 -05:00 [INF] Application Starting - hello world
+2022-11-15 20:54:28.305 -05:00 [INF] Worker running at: "2022-11-15T20:54:28.3047387-05:00"
+2022-11-15 20:54:28.338 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-15 20:54:28.346 -05:00 [INF] Hosting environment: Development
+2022-11-15 20:54:28.348 -05:00 [INF] Content root path: C:\Users\dlamb\source\repos\TestingSerilog\DemoRunner
+2022-11-15 20:54:29.357 -05:00 [INF] Worker running at: "2022-11-15T20:54:29.3576368-05:00"
+2022-11-15 20:54:30.367 -05:00 [INF] Worker running at: "2022-11-15T20:54:30.3673830-05:00"
+2022-11-15 20:54:31.377 -05:00 [INF] Worker running at: "2022-11-15T20:54:31.3777770-05:00"
+2022-11-15 20:54:32.382 -05:00 [INF] Worker running at: "2022-11-15T20:54:32.3821978-05:00"
+2022-11-15 20:54:32.473 -05:00 [INF] Application is shutting down...
+2022-11-15 21:02:41.738 -05:00 [INF] Application Starting - hello world
+2022-11-15 21:02:41.787 -05:00 [INF] Worker running at: "2022-11-15T21:02:41.7863968-05:00"
+2022-11-15 21:02:41.841 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-15 21:02:41.860 -05:00 [INF] Hosting environment: Development
+2022-11-15 21:02:41.866 -05:00 [INF] Content root path: C:\Users\dlamb\source\repos\TestingSerilog\DemoRunner
+2022-11-15 21:02:42.852 -05:00 [INF] Worker running at: "2022-11-15T21:02:42.8523958-05:00"
+2022-11-15 21:02:43.863 -05:00 [INF] Worker running at: "2022-11-15T21:02:43.8631945-05:00"
+2022-11-15 21:02:44.882 -05:00 [INF] Worker running at: "2022-11-15T21:02:44.8822185-05:00"
+2022-11-15 21:02:45.616 -05:00 [INF] Application is shutting down...
+2022-11-15 21:04:49.526 -05:00 [INF] Application Starting - hello world
+2022-11-15 21:04:49.574 -05:00 [INF] Worker running at: "2022-11-15T21:04:49.5739373-05:00"
+2022-11-15 21:04:49.603 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-15 21:04:49.615 -05:00 [INF] Hosting environment: Development
+2022-11-15 21:04:49.617 -05:00 [INF] Content root path: C:\Users\dlamb\source\repos\TestingSerilog\DemoRunner
+2022-11-15 21:04:50.607 -05:00 [INF] Worker running at: "2022-11-15T21:04:50.6073239-05:00"
+2022-11-15 21:04:51.621 -05:00 [INF] Worker running at: "2022-11-15T21:04:51.6215204-05:00"
+2022-11-15 21:04:52.630 -05:00 [INF] Worker running at: "2022-11-15T21:04:52.6300258-05:00"
+2022-11-15 21:04:53.412 -05:00 [INF] Application is shutting down...
+2022-11-15 21:10:55.155 -05:00 [INF] Application Starting - hello world
+2022-11-15 21:10:55.207 -05:00 [INF] Worker running at: "2022-11-15T21:10:55.2064808-05:00"
+2022-11-15 21:10:55.232 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-15 21:10:55.239 -05:00 [INF] Hosting environment: Development
+2022-11-15 21:10:55.241 -05:00 [INF] Content root path: C:\Users\dlamb\source\repos\TestingSerilog\DemoRunner
+2022-11-15 21:10:56.239 -05:00 [INF] Worker running at: "2022-11-15T21:10:56.2393218-05:00"
+2022-11-15 21:10:57.248 -05:00 [INF] Worker running at: "2022-11-15T21:10:57.2481898-05:00"
+2022-11-15 21:10:58.270 -05:00 [INF] Worker running at: "2022-11-15T21:10:58.2703800-05:00"
+2022-11-15 21:10:59.281 -05:00 [INF] Worker running at: "2022-11-15T21:10:59.2810068-05:00"
+2022-11-15 21:11:00.298 -05:00 [INF] Worker running at: "2022-11-15T21:11:00.2984442-05:00"
+2022-11-15 21:11:02.335 -05:00 [INF] Worker running at: "2022-11-15T21:11:02.3355212-05:00"
+2022-11-15 21:11:03.353 -05:00 [INF] Worker running at: "2022-11-15T21:11:03.3530066-05:00"
+2022-11-15 21:11:04.362 -05:00 [INF] Worker running at: "2022-11-15T21:11:04.3620834-05:00"
+2022-11-15 21:11:06.108 -05:00 [INF] Worker running at: "2022-11-15T21:11:06.1083094-05:00"
+2022-11-15 21:11:06.593 -05:00 [INF] Application is shutting down...
